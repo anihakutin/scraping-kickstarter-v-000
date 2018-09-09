@@ -19,7 +19,7 @@ def create_project_hash
 
   end
 
-  puts projects
+  projects
 end
 
 create_project_hash
